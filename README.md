@@ -5,6 +5,7 @@
 [![Releases](https://img.shields.io/github/release-pre/knative-sandbox/eventing-awssqs.svg)](https://github.com/knative-sandbox/eventing-awssqs/releases)
 [![LICENSE](https://img.shields.io/github/license/knative-sandbox/eventing-awssqs.svg)](https://github.com/knative-sandbox/eventing-awssqs/blob/master/LICENSE)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://knative.slack.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-awssqs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-awssqs?ref=badge_shield)
 
 **Deprecated in  favor of [TriggerMesh bundled AWS SQS Source](https://github.com/triggermesh/triggermesh)**
 
@@ -21,3 +22,7 @@ For complete documentation about Knative Eventing, see the following repos:
 
 If you are interested in contributing, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 and [DEVELOPMENT.md](./DEVELOPMENT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-awssqs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-awssqs?ref=badge_large)
